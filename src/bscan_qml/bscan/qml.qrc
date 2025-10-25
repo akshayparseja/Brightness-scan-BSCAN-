@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Annotations.qml</file>
+        <file>PlayVideo.qml</file>
+        <file>NavigationPanel.qml</file>
+        <file>DrawerItem.qml</file>
+        <file>BscanButtons.qml</file>
+        <file>ImageButton.qml</file>
+        <file>HomePage.qml</file>
+        <file>RecentScan.qml</file>
+        <file>PatientData.qml</file>
+        <file>DoctorData.qml</file>
+        <file>Add_Patient.qml</file>
+        <file>GenderButton.qml</file>
+        <file>PatientInfoInput.qml</file>
+        <file>GeneralButton.qml</file>
+        <file>Add_Doctor.qml</file>
+        <file>Custom_Popup.qml</file>
+        <file>FlatButton.qml</file>
+        <file>PaperRipple.qml</file>
+        <file>DoubleSpinBox.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bscan.jpeg</file>
+        <file>icons/Doctor.png</file>
+        <file>icons/Patient.png</file>
+        <file>icons/Scans.png</file>
+        <file>icons/Settings.png</file>
+        <file>icons/chooseurmed.png</file>
+        <file>icons/Lenses.png</file>
+        <file>icons/home.png</file>
+        <file>icons/annotation.png</file>
+        <file>icons/Right_Next Icon.png</file>
+        <file>icons/menu_dots.png</file>
+        <file>icons/back_icon.png</file>
+        <file>icons/add.png</file>
+        <file>backward.png</file>
+        <file>forward.png</file>
+        <file>icons/five.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>scale.png</file>
+    </qresource>
+    <qresource prefix="/homeImages">
+        <file>icons/B-Scan.png</file>
+        <file>icons/A-Scan.png</file>
+        <file>icons/Calculator.png</file>
+        <file>icons/Calibrate.png</file>
+        <file>icons/printer.png</file>
+    </qresource>
+</RCC>
