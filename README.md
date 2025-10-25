@@ -137,12 +137,5 @@ This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE
 
 ## ✍️ Authors
 
-- [Your Name]
-- [Contributors]
+- Akshay Parseja
 
-## 🙏 Acknowledgments
-
-- Qt Framework developers
-- OpenCV community
-- Medical professionals who provided feedback
-- Beta testers and early adopters
